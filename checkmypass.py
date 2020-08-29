@@ -1,3 +1,11 @@
+'''
+username: malloryjb
+date: 2020-08-29
+project: password checker
+description: this script receives a text file to check passwords
+	for their exposure in data breaches.
+	the text file is used to ensure the checked password isn't logged
+'''
 import requests
 import sys
 import hashlib
